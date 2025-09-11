@@ -1,0 +1,2252 @@
+[
+  {
+    "professor": "Martin Reichert",
+    "current_rating": 4.7,
+    "num_ratings": 112,
+    "course_semester_trends": [
+      {
+        "course": "ACA101",
+        "trend": [
+          {
+            "term": "Spring 2021",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2021",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2022",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 5.0,
+            "count": 3
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 5.0,
+            "count": 3
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 5.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "ACA101005",
+        "trend": [
+          {
+            "term": "Fall 2020",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ACAUF101",
+        "trend": [
+          {
+            "term": "Spring 2022",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 5.0,
+            "count": 3
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2025",
+            "avg_quality": 5.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "ACC",
+        "trend": [
+          {
+            "term": "Spring 2023",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Summer 2023",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2024",
+            "avg_quality": 5.0,
+            "count": 4
+          },
+          {
+            "term": "Summer 2024",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Fall 2025",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CF",
+        "trend": [
+          {
+            "term": "Fall 2004",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2005",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CF1",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2014",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2015",
+            "avg_quality": 4.33,
+            "count": 3
+          },
+          {
+            "term": "Fall 2016",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2017",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2017",
+            "avg_quality": 4.75,
+            "count": 4
+          },
+          {
+            "term": "Fall 2018",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2019",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2020",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Fall 2020",
+            "avg_quality": 5.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CF102",
+        "trend": [
+          {
+            "term": "Spring 2019",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CF2",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2017",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2020",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2021",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CF208",
+        "trend": [
+          {
+            "term": "Fall 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFI",
+        "trend": [
+          {
+            "term": "Spring 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2006",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2014",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFI006",
+        "trend": [
+          {
+            "term": "Fall 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFI101",
+        "trend": [
+          {
+            "term": "Spring 2014",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2016",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFII",
+        "trend": [
+          {
+            "term": "Spring 2009",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Summer 2011",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2011",
+            "avg_quality": 5.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CFII001",
+        "trend": [
+          {
+            "term": "Summer 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Summer 2016",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFIIUF102",
+        "trend": [
+          {
+            "term": "Spring 2015",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2017",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2022",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFIIUF102005",
+        "trend": [
+          {
+            "term": "Spring 2014",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFIUF10",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CFIUF101",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2018",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CLT1",
+        "trend": [
+          {
+            "term": "Summer 2007",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULT006",
+        "trend": [
+          {
+            "term": "Fall 2010",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULT02",
+        "trend": [
+          {
+            "term": "Fall 2008",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULT2",
+        "trend": [
+          {
+            "term": "Spring 2008",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULT3",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTF12",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTF2",
+        "trend": [
+          {
+            "term": "Spring 2007",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTFOUND",
+        "trend": [
+          {
+            "term": "Fall 2004",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTFOUNDI",
+        "trend": [
+          {
+            "term": "Fall 2005",
+            "avg_quality": 4.5,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CULTI",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTR1",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTSECT",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTT02",
+        "trend": [
+          {
+            "term": "Spring 2008",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTURAL",
+        "trend": [
+          {
+            "term": "Spring 2005",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTURAL2",
+        "trend": [
+          {
+            "term": "Spring 2006",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTURALFOUN",
+        "trend": [
+          {
+            "term": "Fall 2005",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTURALFOUND",
+        "trend": [
+          {
+            "term": "Spring 2005",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTURALII",
+        "trend": [
+          {
+            "term": "Spring 2005",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "DECADSECT",
+        "trend": [
+          {
+            "term": "Spring 2007",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "FICTIONSOFGOD",
+        "trend": [
+          {
+            "term": "Spring 2006",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "GSPT02",
+        "trend": [
+          {
+            "term": "Spring 2008",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "GTUF201",
+        "trend": [
+          {
+            "term": "Fall 2018",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "HUMANITIES",
+        "trend": [
+          {
+            "term": "Fall 2004",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2005",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFII",
+        "trend": [
+          {
+            "term": "Fall 2011",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFII007",
+        "trend": [
+          {
+            "term": "Spring 2011",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TOPDEC",
+        "trend": [
+          {
+            "term": "Spring 2007",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TOPICMODE",
+        "trend": [
+          {
+            "term": "Spring 2009",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "professor": "Joseph Foster",
+    "current_rating": 3.1,
+    "num_ratings": 104,
+    "course_semester_trends": [
+      {
+        "course": "CALC121",
+        "trend": [
+          {
+            "term": "Fall 2021",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2022",
+            "avg_quality": 1.67,
+            "count": 3
+          },
+          {
+            "term": "Summer 2022",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2024",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "MATH211",
+        "trend": [
+          {
+            "term": "Summer 2022",
+            "avg_quality": 5.0,
+            "count": 3
+          }
+        ]
+      },
+      {
+        "course": "MATH9",
+        "trend": [
+          {
+            "term": "Spring 2022",
+            "avg_quality": 4.0,
+            "count": 3
+          }
+        ]
+      },
+      {
+        "course": "MATHUA009",
+        "trend": [
+          {
+            "term": "Fall 2021",
+            "avg_quality": 1.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2022",
+            "avg_quality": 3.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "MATHUA120",
+        "trend": [
+          {
+            "term": "Spring 2024",
+            "avg_quality": 2.25,
+            "count": 4
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 1.25,
+            "count": 8
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 2.14,
+            "count": 7
+          }
+        ]
+      },
+      {
+        "course": "MATHUA121",
+        "trend": [
+          {
+            "term": "Fall 2021",
+            "avg_quality": 3.24,
+            "count": 21
+          },
+          {
+            "term": "Spring 2022",
+            "avg_quality": 3.67,
+            "count": 12
+          },
+          {
+            "term": "Summer 2022",
+            "avg_quality": 1.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 4.0,
+            "count": 2
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2024",
+            "avg_quality": 2.5,
+            "count": 2
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "MATHUA122",
+        "trend": [
+          {
+            "term": "Summer 2022",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2022",
+            "avg_quality": 4.0,
+            "count": 3
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 1.0,
+            "count": 2
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 4.33,
+            "count": 3
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 2.75,
+            "count": 4
+          }
+        ]
+      },
+      {
+        "course": "MATHUA123",
+        "trend": [
+          {
+            "term": "Spring 2023",
+            "avg_quality": 3.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2024",
+            "avg_quality": 2.0,
+            "count": 2
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Summer 2025",
+            "avg_quality": 3.0,
+            "count": 2
+          },
+          {
+            "term": "Fall 2025",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "MATHUA140",
+        "trend": [
+          {
+            "term": "Summer 2025",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "MATHUA9",
+        "trend": [
+          {
+            "term": "Fall 2021",
+            "avg_quality": 4.67,
+            "count": 3
+          },
+          {
+            "term": "Spring 2022",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "MAUY1044",
+        "trend": [
+          {
+            "term": "Spring 2025",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "professor": "Lorraine Doran",
+    "current_rating": 2.5,
+    "num_ratings": 78,
+    "course_semester_trends": [
+      {
+        "course": "ACE1",
+        "trend": [
+          {
+            "term": "Summer 2010",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2012",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2017",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2021",
+            "avg_quality": 5.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ACE110",
+        "trend": [
+          {
+            "term": "Summer 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ACE111",
+        "trend": [
+          {
+            "term": "Spring 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ACW1",
+        "trend": [
+          {
+            "term": "Spring 2012",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ESSAYSECT",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "EXPOS",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2015",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "EXPOS000",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "EXPOSUA1",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2014",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2015",
+            "avg_quality": 2.67,
+            "count": 3
+          },
+          {
+            "term": "Spring 2016",
+            "avg_quality": 2.33,
+            "count": 3
+          },
+          {
+            "term": "Fall 2016",
+            "avg_quality": 3.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2017",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2017",
+            "avg_quality": 1.33,
+            "count": 3
+          },
+          {
+            "term": "Spring 2018",
+            "avg_quality": 1.67,
+            "count": 3
+          },
+          {
+            "term": "Fall 2018",
+            "avg_quality": 1.75,
+            "count": 4
+          },
+          {
+            "term": "Spring 2020",
+            "avg_quality": 4.0,
+            "count": 3
+          },
+          {
+            "term": "Fall 2020",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2021",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Summer 2021",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2022",
+            "avg_quality": 1.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 1.5,
+            "count": 4
+          },
+          {
+            "term": "Spring 2024",
+            "avg_quality": 3.67,
+            "count": 3
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 1.5,
+            "count": 2
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "EXPOSUA2",
+        "trend": [
+          {
+            "term": "Spring 2016",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2020",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2022",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2025",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "EXPSECT",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "WRIT101",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "WRITIESSA",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "WRTWS060",
+        "trend": [
+          {
+            "term": "Summer 2011",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "WTE000",
+        "trend": [
+          {
+            "term": "Spring 2009",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "WTE0100",
+        "trend": [
+          {
+            "term": "Fall 2009",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "WTE100",
+        "trend": [
+          {
+            "term": "Spring 2010",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "WTE101",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2008",
+            "avg_quality": 2.5,
+            "count": 2
+          },
+          {
+            "term": "Fall 2008",
+            "avg_quality": 1.0,
+            "count": 2
+          },
+          {
+            "term": "Fall 2009",
+            "avg_quality": 3.0,
+            "count": 2
+          },
+          {
+            "term": "Summer 2010",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2012",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2013",
+            "avg_quality": 1.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "WTESECT",
+        "trend": [
+          {
+            "term": "Spring 2007",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2007",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "professor": "Christine Harrington",
+    "current_rating": 2.7,
+    "num_ratings": 78,
+    "course_semester_trends": [
+      {
+        "course": "ADLAW1",
+        "trend": [
+          {
+            "term": "Spring 2010",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ADMINLAW",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2008",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2010",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2013",
+            "avg_quality": 4.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2014",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 1.5,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "ADMINLAW1",
+        "trend": [
+          {
+            "term": "Fall 2017",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ADMINLAWPOLIT",
+        "trend": [
+          {
+            "term": "Fall 2005",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "AMERCONS",
+        "trend": [
+          {
+            "term": "Summer 2008",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CIVILLIB",
+        "trend": [
+          {
+            "term": "Spring 2015",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CIVILLIBERTIES",
+        "trend": [
+          {
+            "term": "Fall 2005",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2014",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 2.5,
+            "count": 2
+          },
+          {
+            "term": "Fall 2025",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CIVLB101",
+        "trend": [
+          {
+            "term": "Spring 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2019",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2020",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CIVLIB",
+        "trend": [
+          {
+            "term": "Spring 2013",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CONSTITUT",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "GENLW001",
+        "trend": [
+          {
+            "term": "Fall 2010",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2015",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2019",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LAW0335",
+        "trend": [
+          {
+            "term": "Fall 2010",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LAWANDSOC",
+        "trend": [
+          {
+            "term": "Spring 2006",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LAWANDSOCIETY",
+        "trend": [
+          {
+            "term": "Spring 2005",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2013",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LAWSO001",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LAWSOC",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2008",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2009",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LAWSOCIETY",
+        "trend": [
+          {
+            "term": "Spring 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LAWSOCUA1",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2021",
+            "avg_quality": 1.25,
+            "count": 4
+          },
+          {
+            "term": "Fall 2021",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LS001",
+        "trend": [
+          {
+            "term": "Spring 2009",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LWSC1",
+        "trend": [
+          {
+            "term": "Spring 2011",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LWSOC001",
+        "trend": [
+          {
+            "term": "Fall 2010",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "LWSOCUA1",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 3.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POL0354",
+        "trend": [
+          {
+            "term": "Spring 2010",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POL335",
+        "trend": [
+          {
+            "term": "Spring 2008",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Summer 2018",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2018",
+            "avg_quality": 2.0,
+            "count": 3
+          },
+          {
+            "term": "Spring 2019",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2020",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2021",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2021",
+            "avg_quality": 1.5,
+            "count": 4
+          }
+        ]
+      },
+      {
+        "course": "POL354",
+        "trend": [
+          {
+            "term": "Fall 2012",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2018",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2019",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POLADM",
+        "trend": [
+          {
+            "term": "Fall 2010",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POLOFADMLAW",
+        "trend": [
+          {
+            "term": "Fall 2005",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POLSCADMI",
+        "trend": [
+          {
+            "term": "Spring 2011",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POLUA332",
+        "trend": [
+          {
+            "term": "Fall 2020",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2024",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POLUA335",
+        "trend": [
+          {
+            "term": "Spring 2019",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "POLUA336",
+        "trend": [
+          {
+            "term": "Spring 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2018",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2021",
+            "avg_quality": 1.0,
+            "count": 1
+          },
+          {
+            "term": "Summer 2021",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 3.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "professor": "Albert Piacente",
+    "current_rating": 4,
+    "num_ratings": 73,
+    "course_semester_trends": [
+      {
+        "course": "CFI001",
+        "trend": [
+          {
+            "term": "Spring 2007",
+            "avg_quality": 4.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CFIMW",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 2.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2023",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CULTI",
+        "trend": [
+          {
+            "term": "Fall 2004",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "GWS",
+        "trend": [
+          {
+            "term": "Fall 2022",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2023",
+            "avg_quality": 3.0,
+            "count": 2
+          },
+          {
+            "term": "Summer 2023",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2024",
+            "avg_quality": 5.0,
+            "count": 3
+          },
+          {
+            "term": "Summer 2024",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2024",
+            "avg_quality": 4.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2025",
+            "avg_quality": 4.67,
+            "count": 3
+          },
+          {
+            "term": "Fall 2025",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "PHIL",
+        "trend": [
+          {
+            "term": "Fall 2003",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "PHILOSOPHY",
+        "trend": [
+          {
+            "term": "Spring 2005",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "PSYCHUF103",
+        "trend": [
+          {
+            "term": "Summer 2013",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SCOIUF401",
+        "trend": [
+          {
+            "term": "Fall 2019",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SF1",
+        "trend": [
+          {
+            "term": "Spring 2019",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SF2",
+        "trend": [
+          {
+            "term": "Spring 2015",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2017",
+            "avg_quality": 5.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "SF3",
+        "trend": [
+          {
+            "term": "Spring 2020",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFI",
+        "trend": [
+          {
+            "term": "Summer 2005",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFI101",
+        "trend": [
+          {
+            "term": "Fall 2016",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFII",
+        "trend": [
+          {
+            "term": "Fall 2010",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFIII",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 5.0,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "SFIII015",
+        "trend": [
+          {
+            "term": "Fall 2012",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2019",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFIII101",
+        "trend": [
+          {
+            "term": "Fall 2012",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2015",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2016",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2017",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2018",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2019",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Spring 2020",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SFIIIUF103",
+        "trend": [
+          {
+            "term": "Fall 2013",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2017",
+            "avg_quality": 4.5,
+            "count": 2
+          },
+          {
+            "term": "Spring 2018",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2020",
+            "avg_quality": 4.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2021",
+            "avg_quality": 3.0,
+            "count": 2
+          },
+          {
+            "term": "Spring 2022",
+            "avg_quality": 4.5,
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "SFTPCS",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOC101",
+        "trend": [
+          {
+            "term": "Spring 2010",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCABCC",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCF101",
+        "trend": [
+          {
+            "term": "Spring 2010",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCFI",
+        "trend": [
+          {
+            "term": "Fall 2009",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCFO1",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2017",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCFOMW",
+        "trend": [
+          {
+            "term": "Fall 2007",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCFOUN",
+        "trend": [
+          {
+            "term": "Fall 2006",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCFOUND",
+        "trend": [
+          {
+            "term": "Spring 2004",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCIA2",
+        "trend": [
+          {
+            "term": "Summer 2008",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCIAL",
+        "trend": [
+          {
+            "term": "Fall 2004",
+            "avg_quality": 5.0,
+            "count": 1
+          },
+          {
+            "term": "Fall 2005",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCIALFOU",
+        "trend": [
+          {
+            "term": "Spring 2004",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCIALFOUNDATI",
+        "trend": [
+          {
+            "term": "Fall 2005",
+            "avg_quality": 2.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "SOCIALI",
+        "trend": [
+          {
+            "term": "Fall 2004",
+            "avg_quality": 1.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TOPICMDRN",
+        "trend": [
+          {
+            "term": "Spring 2007",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TOPICS",
+        "trend": [
+          {
+            "term": "Spring 2005",
+            "avg_quality": 4.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TOPICSMODSOC",
+        "trend": [
+          {
+            "term": "Summer 2005",
+            "avg_quality": 3.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TOPICSOC",
+        "trend": [
+          {
+            "term": "Spring 2009",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TPCS1",
+        "trend": [
+          {
+            "term": "Fall 2008",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "TPCSMDRN",
+        "trend": [
+          {
+            "term": "Spring 2008",
+            "avg_quality": 5.0,
+            "count": 1
+          }
+        ]
+      }
+    ]
+  }
+]
