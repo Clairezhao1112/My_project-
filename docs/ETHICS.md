@@ -23,8 +23,7 @@ Scraping can put stress on websites if it’s done recklessly. Pulling too much 
 ---
 
 3. Privacy Considerations
-Some of the data we collect may involve personal details like names or emails. We don’t want to gather more than we actually need, and when we do, we’ll take steps to keep that information safe. Sensitive info (like health or financial data) is off-limits unless there’s a clear legal and ethical reason to include it.
-
+We do not need reviewer identities to compute trends. We will keep only what is needed: review date, rating, tags like “difficulty,” and a stable professor identifier. We will not store usernames or attempt to link reviewers to real people. If sensitive content appears, we skip it.
 ---
 
 4. Our Team’s Ethical Framework  
@@ -38,4 +37,5 @@ Some of the data we collect may involve personal details like names or emails. W
 - APIs - If a site already gives out data through an API, that’s the best route.  
 - Open datasets - There are plenty of public data sources that are free to use.    
   
+
 
