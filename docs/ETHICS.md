@@ -35,6 +35,7 @@ Some of the data we collect may involve personal details like names or emails. W
 ---
 
 5. Alternative Approaches Considered  
-- APIs – If a site already gives out data through an API, that’s the best route.  
-- Open datasets – There are plenty of public data sources that are free to use.    
+- APIs - If a site already gives out data through an API, that’s the best route.  
+- Open datasets - There are plenty of public data sources that are free to use.    
   
+
