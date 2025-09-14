@@ -11,9 +11,7 @@ Professor list -> Scraper (HTML fetch + parse) -> Raw JSONL -> Validator -> Clea
 ---
 
 Setup and Deployment Instructions
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Install dependencies
+  - pip install -r requirements.txt
+
 
