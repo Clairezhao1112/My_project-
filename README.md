@@ -11,7 +11,14 @@ Professor list -> Scraper (HTML fetch + parse) -> Raw JSONL -> Validator -> Clea
 ---
 
 Setup and Deployment Instructions
-1. Install dependencies
-  - pip install -r requirements.txt
+# Pick a parent folder (create one if you like)
+mkdir -p ~/Projects && cd ~/Projects
+
+# Clone (this creates a new folder named "My_project-")
+git clone https://github.com/Clairezhao1112/My_project-.git
+
+# Open the folder in VS Code
+code My_project-   # if 'code' command is installed
+# or: File → Open Folder… → select ~/Projects/My_project-
 
 
